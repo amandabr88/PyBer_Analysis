@@ -10,12 +10,13 @@ This is a report that summarizes how the data differs by city type and how those
 
 As shown below in the summary table, we can conclude that the urban cities have the highest number of rides and drivers. Also, that the Rural cities have the highest average Fare per Ride and per Driver.
 
-![PyBer_Summary_table](\analysis\PyBer_Summary_table.png)
+![PyBer_Summary_table](/analysis/PyBer_Summary_table.png)
+
 
 
 Describes fare rates among different city types between 01/01/2019 & 04/28/2019.
 
-![PyBer_fare_summary](\analysis\PyBer_fare_summary.png)
+![PyBer_fare_summary](/analysis/PyBer_fare_summary.png)
 
 ## Summary
 
